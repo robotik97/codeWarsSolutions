@@ -14,7 +14,7 @@ function highAndLow(numbers){
   return `${Math.max(...numbers)} ${Math.min(...numbers)}`;
 }
 
-second solition
+//second solition
 function highAndLow(numbers){
    const arr = numbers.split(" ").sort((a,b) => b - a)
     return String(arr[0] + " " + arr[arr.length - 1])
