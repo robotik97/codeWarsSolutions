@@ -10,12 +10,12 @@ The function should mutate the input such that every index has the same amount o
 //See example:
 
 //Input:
-[5, 10, 6]  >>> This represents:
-           # citizen 1 has wealth 5
-           # citizen 2 has wealth 10
-           # citizen 3 has wealth 6
+//[5, 10, 6]  >>> This represents:
+           //# citizen 1 has wealth 5
+           //# citizen 2 has wealth 10
+           //# citizen 3 has wealth 6
 //Should be after the test:
- [7, 7, 7] >>> wealth has now been equally redistributed
+ //[7, 7, 7] >>> wealth has now been equally redistributed
 //Info:
 
 //MUTATE the input array/list, don't return anything
