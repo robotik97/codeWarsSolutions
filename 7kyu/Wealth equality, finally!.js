@@ -5,7 +5,7 @@
 //Create a function that redistributes all wealth equally among all citizens.
 
 //Wealth is represented as an array/list where every index is the wealth of a single citizen.
-The function should mutate the input such that every index has the same amount of wealth.
+//The function should mutate the input such that every index has the same amount of wealth.
 
 //See example:
 
