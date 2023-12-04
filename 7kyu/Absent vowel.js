@@ -4,13 +4,14 @@
 // I has an index of 2,
 // O has an index of 3,
 // U has an index of 4.
-// Notes: There is no need for string validation and every sentence given will contain 
+// Notes: There is no need for string validation and every sentence given will contain
 // all vowels but one. Also, you won't need to worry about capitals.
-function absentVowel(x){
-    let vovels = 'AEIOU';
-    for (let key in vovels){
-     if (x.toUpperCase().indexOf(vovels[key])==-1){
-    return Number (key)
-         }
-      }
+
+function absentVowel(x) {
+  let vovels = "AEIOU";
+  for (let key in vovels) {
+    if (x.toUpperCase().indexOf(vovels[key]) == -1) {
+      return Number(key);
     }
+  }
+}

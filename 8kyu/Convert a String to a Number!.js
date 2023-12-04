@@ -5,6 +5,7 @@
 // "1234" --> 1234
 // "605"  --> 605
 // "1405" --> 1405
-let stringToNumber = function(str){
-    return +str;
-  }
+
+let stringToNumber = function (str) {
+  return +str;
+};
