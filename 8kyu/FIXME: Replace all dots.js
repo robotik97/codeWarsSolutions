@@ -3,9 +3,9 @@
 //But it's not working properly.
 
 //Task
-Fix the bug so we can all go home early.
+//Fix the bug so we can all go home early.
 
 //Notes
-String str will never be null.
+//String str will never be null.
 
-replaceDots = s=>s.split('.').join('-')
+let replaceDots = s=>s.split('.').join('-')
