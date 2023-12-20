@@ -11,3 +11,13 @@
 // "What was the name of your first pet?"
 //"Skippy" --> "##ippy"
 //"Nananananananananananananananana Batman!" //--> "####################################man!"
+
+function maskify(cc) {
+  cc = cc.split("");
+  for(let i = 0; i < cc.length - 4; i++){
+    cc[i] = "#";
+}
+
+cc = cc.join("");
+return cc
+}
