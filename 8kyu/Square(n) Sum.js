@@ -8,3 +8,9 @@ return numbers.reduce (function (sum,current){
  },0)
 }
 
+
+//second decision 
+
+return numbers.reduce(function(prev, curr) { return prev + curr * curr; }, 0);
+
+
