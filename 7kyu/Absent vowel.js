@@ -8,8 +8,8 @@
 // all vowels but one. Also, you won't need to worry about capitals.
 
 function absentVowel(x) {
-  let vovels = "AEIOU";
-  for (let key in vovels) {
+  let vowels = "AEIOU";
+  for (let key in vowels) {
     if (x.toUpperCase().indexOf(vovels[key]) == -1) {
       return Number(key);
     }
