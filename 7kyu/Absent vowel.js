@@ -10,7 +10,7 @@
 function absentVowel(x) {
   let vowels = "AEIOU";
   for (let key in vowels) {
-    if (x.toUpperCase().indexOf(vovels[key]) == -1) {
+    if (x.toUpperCase().indexOf(vowels[key]) == -1) {
       return Number(key);
     }
   }
