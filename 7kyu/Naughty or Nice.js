@@ -5,11 +5,11 @@
      //   '1': 'Naughty','2': 'Naughty', ..., '31': 'Nice'
     },
   //  February: {
-        '1': 'Nice','2': 'Naughty', ..., '28': 'Nice'
+      //  '1': 'Nice','2': 'Naughty', ..., '28': 'Nice'
     },
     ...
  //   December: {
-        '1': 'Nice','2': 'Nice', ..., '31': 'Naughty'
+     //   '1': 'Nice','2': 'Nice', ..., '31': 'Naughty'
     }
 }
 //Your function should return "Naughty!" or "Nice!" depending on the total number of occurrences in a given year (whichever one is greater). If both are equal, return "Nice!"
