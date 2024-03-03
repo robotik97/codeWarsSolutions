@@ -1,14 +1,14 @@
 //Santa is coming to town and he needs your help finding out who's been naughty or nice. You will be given an entire year of JSON data following this format:
 
 //{
-    January: {
-        '1': 'Naughty','2': 'Naughty', ..., '31': 'Nice'
+   // January: {
+     //   '1': 'Naughty','2': 'Naughty', ..., '31': 'Nice'
     },
-    February: {
+  //  February: {
         '1': 'Nice','2': 'Naughty', ..., '28': 'Nice'
     },
     ...
-    December: {
+ //   December: {
         '1': 'Nice','2': 'Nice', ..., '31': 'Naughty'
     }
 }
