@@ -7,7 +7,7 @@
 the proposed end-state showing final amounts for each player
 
 //[output] a boolean value
-true if this is a possible end-state and false otherwise
+//true if this is a possible end-state and false otherwise
 
 //Examples
 //For arr = [0, 56, 100], the output should be true.
