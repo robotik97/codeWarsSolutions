@@ -4,7 +4,7 @@
 
 //Input/Output
 //[input] integer array arr
-the proposed end-state showing final amounts for each player
+//the proposed end-state showing final amounts for each player
 
 //[output] a boolean value
 //true if this is a possible end-state and false otherwise
