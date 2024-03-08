@@ -30,7 +30,7 @@ The way the ohms value needs to be formatted in the string you return depends on
 //"yellow violet orange gold"       "47k ohms, 5%"
 //"brown black yellow gold"        "100k ohms, 5%"
 //"orange orange yellow gold"      "330k ohms, 5%"
-//"red black green gold
+//"red black green gold.
 
 function decodeResistorColors(bands) {
    let code = {black: 0, brown: 1, red: 2, orange: 3, yellow: 4, green: 5, blue: 6, violet: 7, gray: 8, white: 9};
