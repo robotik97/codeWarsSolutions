@@ -7,7 +7,7 @@
 //It's guaranteed that you can number the current page, and that you can't number the last one in the book.
 
 //Example
-For current = 1 and numberOfDigits = 5, the output should be 5
+//For current = 1 and numberOfDigits = 5, the output should be 5
 
 //The following numbers will be printed: 1, 2, 3, 4, 5.
 
@@ -20,7 +20,7 @@ For current = 1 and numberOfDigits = 5, the output should be 5
 //The following numbers will be printed: 8, 9, 10.
 
 //Input/Output
-[input] integer current
+//[input] integer current
 
 //A positive integer, the number on the current page which is not yet printed.
 
