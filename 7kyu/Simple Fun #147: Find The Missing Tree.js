@@ -7,8 +7,8 @@
 //Notes:
 
 //There can be any number of sizes but one is always unbalanced
-The unbalanced size is always one less than the other sizes
-The array is not ordered (nor the trees)```
+//The unbalanced size is always one less than the other sizes
+//The array is not ordered (nor the trees)```
 
 //# Examples
 
