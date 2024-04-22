@@ -1,7 +1,7 @@
 //In this kata, we want to sort the vowels in a special format.
 
 //Task
-Write a function which takes a input string s and return a string in the following way:
+//Write a function which takes a input string s and return a string in the following way:
 
    
                  // C|                          R|
@@ -20,7 +20,7 @@ Write a function which takes a input string s and return a string in the followi
 for the purpose of this kata, the vowels are : a e i o u
 //Return every character in its original case
 //Each line is seperated with \n
-Invalid input ( undefined / null / integer ) should return an empty string
+//Invalid input ( undefined / null / integer ) should return an empty string
 
 function sortVowels(s){
   if (typeof s !== 'string') return ''
