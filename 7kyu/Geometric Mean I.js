@@ -11,7 +11,7 @@
 //amount of entries      maximum invalid entries
  // 2 - 10                       1
  // From 11 and above       10 % of total of entries              
-You do not have to round the results.
+//You do not have to round the results.
 
 //(When you finish this kata, Geometric Mean II will be waiting you.
 
